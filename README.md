@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```
 DATABASE_URL=
 
@@ -11,3 +12,8 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
 
 GEMINI_API_KEY=
 ```
+=======
+# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI 
+
+
+>>>>>>> origin/main
